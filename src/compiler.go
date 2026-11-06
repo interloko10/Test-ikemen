@@ -55,6 +55,7 @@ func newCharCompiler() *CharCompiler {
 		"changeanim":         c.changeAnim,
 		"changeanim2":        c.changeAnim2,
 		"changestate":        c.changeState,
+		"changechar":         c.changeChar,
 		"clearclipboard":     c.clearClipboard,
 		"ctrlset":            c.ctrlSet,
 		"defencemulset":      c.defenceMulSet,
